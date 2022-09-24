@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/white_button_curve_corner"
+    android:backgroundTint="@color/gray"
+    android:layout_marginTop="5dp"
+    android:weightSum="1"
+    android:gravity="center_vertical"
+    android:padding="7dp">
+
+    <ImageView
+        android:id="@+id/iv_customer_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/new_member_48"
+        android:contentDescription="customer icon" />
+
+    <com.fangs.apar_app.utils.HelveticaNormalTextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.90"
+        tools:text="DELA CRUZ, Juan S."
+        android:layout_marginStart="5dp"/>
+
+    <ImageButton
+        android:id="@+id/iv_order_edit"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:adjustViewBounds="true"
+        android:background="?android:selectableItemBackground"
+        android:contentDescription="edit order"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_baseline_edit_24"
+        app:tint="@color/limeGreen"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/order_delete"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="3dp"
+        android:adjustViewBounds="true"
+        android:background="?android:selectableItemBackground"
+        android:contentDescription="delete order"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_baseline_delete_24"
+        app:tint="@color/red"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/iv_messenger"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:adjustViewBounds="true"
+        android:background="?android:selectableItemBackground"
+        android:contentDescription="export to messenger"
+        android:foregroundTint="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_messenger"
+        tools:ignore="TouchTargetSizeCheck" />
+
+</LinearLayout>

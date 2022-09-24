@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable-v23/new_member_48.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/button_helvetica.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/button_image_background.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/cornered_blue.xml" value="0.11990740740740741" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/cornered_gold.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/cornered_red.xml" value="0.11990740740740741" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/cornered_violet.xml" value="0.11990740740740741" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/cursor_color.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/custom_button.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/custom_button_2_colors.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/dialog_bg_shape.xml" value="0.2162037037037037" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/gradient_color_green.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/ic_new_member.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/ic_old_member.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/ic_user.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/main_bg.xml" value="0.23948717948717949" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/new_member.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/new_member_48.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/old_member_48.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/oval_gold.xml" value="0.3359375" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/rounded_button.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/spinner_background.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/drawable/white_button_curve_corner.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/activity_add_new_item.xml" value="0.25" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/custom_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/custom_toolbar1.xml" value="0.25" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/dialog_add_new_item.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/dialog_search.xml" value="0.33" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/fragment_purchase.xml" value="0.22" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/fragment_view_orders.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/nav_header.xml" value="0.33" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/order.xml" value="0.25" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/search_item.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/layout/spinner_layout.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/menu/bottom_app_bar.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/menu/nav_side_bar.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Nikz/Desktop/aparapp/app/src/main/res/menu/top_app_bar.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable-v24/ic_shopping_cart_48.xml" value="0.1" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/button_helvetica.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/button_image_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/circle_bg.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/custom_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/custom_button_2_colors.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/custom_search_view_for_update.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/dialog_bg_shape.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/ic_check.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/ic_shopping_cart_512.xml" value="0.1" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/drawable/spinner_bg.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_add_new_item.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_delete.xml" value="0.22" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_new_member.xml" value="0.25" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_new_member_cart.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_old_member.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_old_member_cart.xml" value="0.1859375" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_old_member_purchase.xml" value="0.3921200750469043" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_purchase.xml" value="0.33127317676143386" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_purchase_new_member.xml" value="0.75" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/activity_update_item.xml" value="0.25" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/cart_row.xml" value="0.33" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/custom_toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_delete.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_loading.xml" value="0.67" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_new_member_info.xml" value="0.22" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_old_member_info.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_product.xml" value="0.25" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_search.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/dialog_update.xml" value="0.22" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/fragment_purchase.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/fragment_view_orders.xml" value="0.25" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/nav_header.xml" value="0.43004115226337447" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/order.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/product_row.xml" value="0.33" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/layout/spinner_layout.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/menu/bottom_app_bar.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/menu/nav_side_bar.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/menu/top_app_bar.xml" value="0.2" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/jygrz/apar-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
